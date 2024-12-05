@@ -1,0 +1,4 @@
+# don't include these in downloads
+.gitattributes export-ignore
+.gitignore export-ignore
+README.md export-ignore
