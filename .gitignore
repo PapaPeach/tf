@@ -1,5 +1,5 @@
 # selectively include these from busy directories
-_Horsie's_Viewmodel_Editor/*
+_horsies_viewmodel_editor/*
 !settings_*
 
 cfg/*
